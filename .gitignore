@@ -1,0 +1,18 @@
+# VS Code indstillinger
+.vscode/
+
+#Virtual Miljø
+venv/
+
+#Python bytecode og cache
+__pycache__/
+*.pyc
+
+# Jupiter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Mac OS metadata
+.DS_Store
+
+# Ignore CSV Files
+*.csv
