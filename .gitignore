@@ -1,10 +1,10 @@
 # VS Code indstillinger
 .vscode/
 
-#Virtual Miljø
+# Virtual Miljø
 venv/
 
-#Python bytecode og cache
+# Python bytecode og cache
 __pycache__/
 *.pyc
 
@@ -16,3 +16,10 @@ __pycache__/
 
 # Ignore CSV Files
 *.csv
+
+# Ignore .env
+.env
+
+# Chroma
+chromadb_persist
+Chroma/

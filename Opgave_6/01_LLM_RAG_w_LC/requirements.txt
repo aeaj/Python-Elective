@@ -1,0 +1,7 @@
+langchain
+chromadb
+mistral-client
+pypdf2
+tiktoken
+python-dotenv
+streamlit
