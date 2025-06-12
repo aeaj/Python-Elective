@@ -1,6 +1,8 @@
+bs4
 langchain
 chromadb
 mistral-client
+requests
 pypdf2
 tiktoken
 python-dotenv
